@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,cradecki,Radecki,Claire
-employee, jhong256, Hong, Jiwoo
+employee,jhong256,Hong,Jiwoo
